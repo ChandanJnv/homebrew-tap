@@ -1,6 +1,6 @@
 cask "topnotes" do
   version "0.1.0"
-  sha256 "sha256:0772b989f2c6a901f44aeb99029ac428c019442020bfe9af55f34c8bbed88753"
+  sha256 "0772b989f2c6a901f44aeb99029ac428c019442020bfe9af55f34c8bbed88753"
 
   url "https://github.com/ChandanJnv/TopNotes/releases/download/v#{version}/TopNotes-#{version}-mac.zip"
   name "TopNotes"
